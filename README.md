@@ -1,6 +1,6 @@
 # SpeakerEvents_2023
 
-### Mar 2022
+### Mar 2023
   * [Video Recording of Event](https://www.youtube.com/watch?v=MYKYksteNMM&t=6493s)
   * **Speaker Topic #1 - Supercharge your Python Development Environment with VS Code**
   * Speaker: [Dawn Wages](https://www.linkedin.com/in/dawnwages)
@@ -11,7 +11,7 @@
   * Speaker: Paul Chan
   * The US labor department uses local US wage demographics to assess the wage of foreign workers. It is to determine if the local employers have been abusing foreign workers or intentionally providing lower than market salaries to the foreign workers to avoid hiring local US residents and citizens. The data used in this study are the data related to Permanent cases, whose approval is the first step of employer-sponsored green cards. Due to the complexities of the features in the prediction model, a more complex and gradient-boosted decision tree model, XGBoost, is used for this purpose.
 
-### May 2022
+### May 2023
   * No Video Recording of Event
   * **Speaker Topic #1 - AL/ML Talk**
   * Speaker: [Brad Flaugher](https://www.linkedin.com/in/bradflaugher)
