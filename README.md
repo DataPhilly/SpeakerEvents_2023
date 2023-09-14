@@ -20,3 +20,4 @@
   * **Speaker Topic #2 - Data Visualization Talk**
   * Speaker: Lauren Ellenberg
   * Want to get into data viz, but have no money? That's how Lauren did it, and she is here to tell you what she learned from it. Be ready to learn some basic data viz knowledge, and get acquainted with free or cheap resources you can access, including books, websites, podcasts, and your local library. The presentation materials will be shared afterwards.
+  * [Slides](https://drive.google.com/file/d/1joqMxCIeZ7L2UL-D9MNHxwqIMhFoCKEo/view?usp=sharing)
