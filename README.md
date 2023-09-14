@@ -1,7 +1,7 @@
 # SpeakerEvents_2023
 
 ### June 2022
-  * [Video Recording of Event]([https://www.youtube.com/watch?v=8y1p6uBHWVs&t=1030s](https://www.youtube.com/watch?v=MYKYksteNMM&t=6493s))
+  * [Video Recording of Event](https://www.youtube.com/watch?v=MYKYksteNMM&t=6493s)
   * **Speaker Topic #1 - Supercharge your Python Development Environment with VS Code**
   * Speaker: Dawn Wages
   * VS Code is a free code editor, built on open source, runs everywhere, and is made to be extensible for your development environment. Regardless of your workflow, you're able to modify your Python supporting tools and extensions so you can focus on the code. This talk is broken up into three sections: features for collaboration, code editing, and content creation.
